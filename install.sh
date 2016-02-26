@@ -9,7 +9,7 @@ sudo apt-get install \
 	pgpgpg libgnome-keyring-dev
 
 # install jekyll
-sudo gem install jekyll
+sudo gem install jekyll travis
 
 cp -f .vimrc ~/.vimrc
 
