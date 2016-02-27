@@ -3,7 +3,7 @@
 sudo apt-get install \
 	vim tree feh xfburn filezilla \
 	gimp inkscape imagemagick shutter vlc \
-	qt5-default libqt5serialport5-dev qtbase5-dev-tools \
+	qt5-default libqt5serialport5-dev qtbase5-dev-tools qttools5-dev-tools \
 	flex bison help2man \
 	git tiled codeblocks fpc ruby-dev \
 	pgpgpg libgnome-keyring-dev
