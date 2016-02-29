@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# base system
 sudo apt-get install \
 	vim tree feh xfburn filezilla \
 	gimp inkscape imagemagick shutter vlc \
@@ -7,6 +8,10 @@ sudo apt-get install \
 	flex bison help2man \
 	git tiled codeblocks fpc ruby-dev \
 	pgpgpg libgnome-keyring-dev
+
+# graphics drivers
+# https://help.ubuntu.com/community/BinaryDriverHowto/Nvidia
+#sudo apt-get install nvidia-352
 
 # install jekyll
 sudo gem install jekyll travis
